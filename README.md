@@ -14,5 +14,4 @@
 
  ### link to github repo: https://github.com/tfrohm11/mvc-techblog
  ### link to website through github: https://tfrohm11.github.io/mvc-techblog/
- ### heroku link: https://git.heroku.com/mvctechblog2022.git
-
+ ### heroku link: https://mvctechblog2022.herokuapp.com/
